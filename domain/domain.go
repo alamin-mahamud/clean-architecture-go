@@ -50,7 +50,7 @@ func (order *Order) Add(item Item) error {
 
 func (order *Order) value() float64 {
 	sum := 0.0
-	for i := range order.Items {
+	for i := range o.rder.Items {
 		// sum += order.Items[i].Value
 		sum += i.Value
 	}
