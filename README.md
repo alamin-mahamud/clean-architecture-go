@@ -11,7 +11,7 @@
 
 * Interfaces:
   1. Web services for Item/Order handling
-  2. Repositories for use cases and domain entities persistence
+  2. Repositories for use cases and entities entities persistence
 
 * Infrastracture
   1. The Database
